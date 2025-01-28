@@ -13,7 +13,7 @@
 
 <h4>💻 Backend</h4>
 <ul>
-  <li><strong>NodeJS</strong> | <strong>Java</strong> | <strong>PHP</strong> (em aprendizado)</li>
+  <li><strong>NodeJS</strong> | <strong>Java</strong> | <strong>PHP</strong> | <strong>C#</strong> (em aprendizado)</li>
 </ul>
 
 <h4>🌐 Frontend</h4>
