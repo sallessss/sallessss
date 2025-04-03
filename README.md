@@ -1,6 +1,4 @@
 <h2>Olá! Eu sou Hugo Salles. 👋</h2>
-<br/>
-
 <h3>🤝🏻 Conecte-se comigo</h3>
 <p>
   <a href="https://www.linkedin.com/in/hugo-salles/" target="_blank">
